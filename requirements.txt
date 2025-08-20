@@ -1,0 +1,5 @@
+uv
+boto3
+mcp
+strands-agents
+strands-agents-tools
