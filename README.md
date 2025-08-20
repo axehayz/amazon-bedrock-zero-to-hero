@@ -8,6 +8,8 @@ Prepared for Twilio Hackathon (Tweek Week)
 
 The repository contains a jupyter notebook that covers basics of Bedrock to more advanced concepts like using guardrails, Strands-Agents as an model-agnostic agent development framework, MCP, building tools and calls, and more. 
 
+https://github.com/axehayz/amazon-bedrock-zero-to-hero/blob/main/bedrock-zero-to-hero.ipynb
+
 Ensure you have AWS credentials and configuration setup.
 
 The Agenda for the presentation on 8/14/2025:
